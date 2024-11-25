@@ -11,7 +11,7 @@ Department of Civil and Environmental Engineering, Imperial College London, UK
 
 AQUINAS is a specialised MATLAB finite element (FE) toolbox for the nonlinear analysis of axisymmetric thin-walled shell systems, conceived by the Authors to recover a research functionality once widely available but now largely lost in the age of supposedly 'general' 3D FE software. AQUINAS exploits the powerful built-in sparse linear algebra routines of MATLAB with efficient matrix assembly in pre-compiled and parallelised C++ code via the MEX functionality, as well as MATLAB's extensive visualisation and quality-of-life features. In addition to making nonlinear bifurcation buckling calculations of axisymmetric shells more accessible to a wider research community, the toolbox is designed to facilitate the ongoing active development of the structural Eurocode EN 1993-1-6 governing the design of metal civil engineering shells through its capability to automate the accurate computation of nominal resistance capacity curves for reference axisymmetric shell systems.
 
-## Requirenments
+## Requirements
 
 ### Usage
 AQUINAS has been developed and tested on a MATLAB R2022a coding environment. Earlier versions of MATLAB may not be supported.
